@@ -4,8 +4,6 @@ Módulo para exemplificar construção de projetos Python no curso Pytools
 Nesse curso é ensinado como contribuir com projetos de código aberto 
 Link para o curso [Python Pro] (https://www.python.pro.br/)
 
-[![Build Status](https://app.travis-ci.com/AMBEZERRA/libpythonproT.svg?branch=main)](https://app.travis-ci.com/AMBEZERRA/libpythonproT)
-
 Suportada versão de Python 3
 
 Para instlar:
