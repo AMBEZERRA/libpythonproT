@@ -4,6 +4,10 @@ Módulo para exemplificar construção de projetos Python no curso Pytools
 Nesse curso é ensinado como contribuir com projetos de código aberto 
 Link para o curso [Python Pro] (https://www.python.pro.br/)
 
+[![Updates](https://pyup.io/repos/github/AMBEZERRA/libpythonproT/shield.svg)](https://pyup.io/repos/github/AMBEZERRA/libpythonproT/)
+
+[![Python 3](https://pyup.io/repos/github/AMBEZERRA/libpythonproT/python-3-shield.svg)](https://pyup.io/repos/github/AMBEZERRA/libpythonproT/)
+
 Suportada versão de Python 3
 
 Para instlar:
